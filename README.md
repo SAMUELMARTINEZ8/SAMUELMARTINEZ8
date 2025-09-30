@@ -34,9 +34,9 @@ Aquí están las herramientas y lenguajes con los que trabajo habitualmente:
 Este es mi proyecto que he desarrollado, en proceso de mas proyectos a futuro:
 
    Bovino UJAT:
-    * **Descripción:** `"Un sistema de gestión de inventario desarrollado para la materia de Desarrollo de Aplicaciones Multiplataforma"`.
-    * **Tecnologías:** `[Python, MongoDB, React]`
-    * **Enlace:** [Ver Repositorio](https://github.com/SAMUELMARTINEZ8/MiProyectoBovino)
+     **Descripción:** `"Un sistema de gestión de inventario desarrollado para la materia de Desarrollo de Aplicaciones Multiplataforma"`.
+     **Tecnologías:** `[Python, MongoDB, React]`
+     **Enlace:** [Ver Repositorio](https://github.com/SAMUELMARTINEZ8/MiProyectoBovino)
 
 ---
 
