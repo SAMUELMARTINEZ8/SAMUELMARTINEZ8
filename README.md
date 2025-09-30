@@ -31,9 +31,9 @@ Aquí están las herramientas y lenguajes con los que trabajo habitualmente:
 
 ### 📚 Proyectos Académicos Destacados
 
-Estos son algunos de los trabajos más relevantes que he desarrollado en mi trayectoria:
+Este es mi proyecto que he desarrollado, en proceso de mas proyectos a futuro:
 
-1.  Bovino UJAT:
+-   Bovino UJAT:
     * **Descripción:** `"Un sistema de gestión de inventario desarrollado para la materia de Desarrollo de Aplicaciones Multiplataforma"`.
     * **Tecnologías:** `[Python, MongoDB, React]`
     * **Enlace:** [Ver Repositorio](https://github.com/SAMUELMARTINEZ8/MiProyectoBovino)
@@ -46,7 +46,7 @@ Siempre estoy abierto a colaborar en proyectos académicos o discutir nuevas ide
 
 | Plataforma | Enlace |
 | :--- | :--- |
-| **Correo Electrónico** | `222H17202@alumno.ujat.mx` |
+| **Correo Personal** | `samuel.martinezcr7291@gmail.com` |
 | **Instagram** | [Mi Perfil](https://www.instagram.com/_samuelmartinez?igsh=MXFpOGp3OHR3b2Rrdw%3D%3D&utm_source=qr) |
 | **Facebook** | [Mi Perfil](https://www.facebook.com/share/19rJY5uECB/?mibextid=wwXIfr) |
 
