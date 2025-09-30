@@ -18,13 +18,13 @@ Busco activamente aplicar mis conocimientos en proyectos prácticos y colaborar 
 
 ### 🚀 Mis Habilidades Técnicas
 
-Aquí están las herramientas y lenguajes con los que trabajo habitualmente:
+Aquí están las herramientas y lenguajes con los que trabajo habitualmente: 
 
 | Categoría | Habilidades |
 | :--- | :--- |
 | **Lenguajes de Programación** | `[Python]`, `[JavaScript]`, `[SQL]` |
 | **Bases de Datos** | `[PostgreSQL]`, `[MySQL]`, `[MongoDB]` |
-| **Desarrollo Web (Frontend)** | `[CSS3]`, `[React]` o `[Angular]` |
+| **Desarrollo Web (Frontend)** | `[React]` o `[Angular]` |
 | **Control de Versiones y Otros** | `[GitHub]`, `[Docker]` |
 
 ---
