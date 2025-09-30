@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Samuel
+# 👋 ¡Hola amigos! 
 
 ### 🎓 Estudiante de Ingenieria en Sistemas Computacionales en la Universidad Juárez Autónoma de Tabasco
 
@@ -6,7 +6,7 @@
 
 ### 💻 Sobre Mí
 
-Soy un estudiante apasionado por la tecnología y la resolución de problemas. Actualmente, estoy cursando el sexto de mi carrera y mi enfoque principal está en:
+Soy un estudiante apasionado por la tecnología y la resolución de problemas. Actualmente, estoy cursando el sexto semestre de mi carrera y mi enfoque principal está en:
 * Programación en Bases de Datos con MySQL
 * Actualmente aprendiendo Análisis de Datos y Machine Learning
 
