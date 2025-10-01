@@ -1,4 +1,4 @@
-# 👋 ¡Hola Bienvenidos! Soy Samuel 
+# 👋 Print "¡Hola Bienvenidos! Soy Samuel"
 
 ### 🎓 Estudiante de Ingenieria en Sistemas Computacionales en la Universidad Juárez Autónoma de Tabasco
 
