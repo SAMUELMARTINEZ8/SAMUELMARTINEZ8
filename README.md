@@ -47,12 +47,15 @@
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 📊 Mis Estadísticas en Vivo
 
-| 🏆 Mis Estadísticas | 💻 Lenguajes Más Usados |
-| :---: | :---: |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=SAMUELMARTINEZ8&show_icons=true&theme=tokyonight&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMUELMARTINEZ8&layout=compact&theme=tokyonight&hide_border=true) |
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMUELMARTINEZ8&theme=tokyonight&hide_border=true" alt="Samuel's Streak" />
+  
+  <br/> <br/>
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMUELMARTINEZ8&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Langs" />
+</div>
 ---
 
 ### 📂 Proyectos Destacados
