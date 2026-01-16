@@ -47,15 +47,26 @@
 
 ---
 
-### 📊 Mis Estadísticas en Vivo
+---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMUELMARTINEZ8&theme=tokyonight&hide_border=true" alt="Samuel's Streak" />
-  
-  <br/> <br/>
+### 🧠 Habilidades Blandas y Metodologías
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMUELMARTINEZ8&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Langs" />
-</div>
+Además del código, me enfoco en las habilidades que hacen exitoso a un proyecto:
+
+<p>
+  <img src="https://img.shields.io/badge/Metodología-SCRUM-brightgreen?style=for-the-badge&logo=scrum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Habilidad-Liderazgo-orange?style=for-the-badge&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Habilidad-Trabajo_en_Equipo-blue?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
+  <img src="https://img.shields.io/badge/Habilidad-Autodidacta-yellow?style=for-the-badge&logo=bookstack&logoColor=white" />
+</p>
+
+### 🌐 Idiomas
+
+<p>
+  <img src="https://img.shields.io/badge/Español-Nativo-4EA94B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Inglés-Técnico_(Lectura)-blue?style=for-the-badge" />
+</p>
+
 ---
 
 ### 📂 Proyectos Destacados
