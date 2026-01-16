@@ -1,53 +1,88 @@
-# Hola Bienvenidos, Soy Samuel;
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=435&lines=Hola,+Soy+Samuel+Martinez;Ingeniero+en+Sistemas;Desarrollador+Full+Stack;Apasionado+por+la+Tecnología" alt="Typing SVG" />
+</div>
 
-### Estudiante de Ingenieria en Sistemas Computacionales en la Universidad Juárez Autónoma de Tabasco
-
----
-
-### Sobre Mí
-
-Soy un estudiante apasionado por la tecnología y la resolución de problemas. Actualmente, estoy cursando el octavo semestre de mi carrera y mi enfoque principal está en:
-* Gestion Empresarial
-
-Busco activamente aplicar mis conocimientos en proyectos prácticos y colaborar en soluciones innovadoras.
+<div align="center">
+  <h3>🚀 Estudiante de Ingeniería en Sistemas Computacionales - UJAT</h3>
+  <p>Villahermosa, Tabasco, México 🌮</p>
+</div>
 
 ---
 
-### Mis Habilidades Técnicas
+### 👨‍💻 Sobre Mí
 
-Aquí están las herramientas y lenguajes con los que trabajo habitualmente: 
+¡Hola! Soy un estudiante del **8vo semestre** apasionado por la resolución de problemas y la gestión tecnológica. Mi objetivo es crear soluciones que impacten en el mundo real, combinando el desarrollo de software con una visión de **Gestión Empresarial**.
 
-| Categoría | Habilidades |
-| :--- | :--- |
-| **Lenguajes de Programación** | `[Python]`, `[JavaScript]` |
-| **Bases de Datos** | `[MySQL]`, `[MongoDB]`, `[Django]`|
-| **Desarrollo Web (Frontend)** | `[React]` |
-| **Control de Versiones y Otros** | `[GitHub]` |
+- 🔭 Actualmente trabajando en: **Proyectos con Python y React.**
+- 🌱 Aprendiendo: **Arquitectura de Software y Cloud Computing.**
+- 👯 Busco colaborar en: **Proyectos Open Source y Startups.**
+- ⚡ Dato curioso: Me encanta optimizar procesos (y el café ☕).
 
 ---
 
-### Proyectos Académicos Destacados
+### 🛠️ Habilidades Técnicas (Stack)
 
-Este es mi proyecto que he desarrollado, en proceso de mas proyectos a futuro:
+En lugar de tablas simples, aquí tienes tus insignias visuales:
 
-1.  **Bovino UJAT:**
-   `"Un sistema de gestión de inventario desarrollado para la materia de Desarrollo de Aplicaciones Multiplataforma"`.
-     **Tecnologías:** `[Python, MongoDB, React]`
-     **Enlace:** [Ver Repositorio](https://github.com/SAMUELMARTINEZ8/MiProyectoBovino)
+**Lenguajes:**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-2. **En proceso de mas proyectos a lo largo de mi carrera**
+**Frameworks & Librerías:**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</p>
+
+**Bases de Datos & Herramientas:**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
+
 ---
 
-### Conéctate Conmigo
+### 📊 Mis Estadísticas de GitHub
 
-Siempre estoy abierto a colaborar en proyectos académicos o discutir nuevas ideas.
+Estas tarjetas se actualizan solas cada vez que haces un commit. ¡Hacen que tu perfil se vea muy vivo!
 
-| Plataforma | Enlace |
-| :--- | :--- |
-| **Correo Personal** | `samuel.martinezcr7291@gmail.com` |
-| **Correo Institucional** | `222H17202@alumno.ujat.mx` |
-| **Instagram** | [Mi Perfil](https://www.instagram.com/_samuelmartinez?igsh=MXFpOGp3OHR3b2Rrdw%3D%3D&utm_source=qr) |
-| **Facebook** | [Mi Perfil](https://www.facebook.com/share/19rJY5uECB/?mibextid=wwXIfr) |
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=SAMUELMARTINEZ8&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Samuel" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMUELMARTINEZ8&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  </p>
+</div>
 
 ---
-**¡Gracias por visitar mi perfil!**
+
+### 📂 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías |
+| :--- | :--- | :--- |
+| **🐮 Bovino UJAT** | Sistema de gestión de inventario ganadero. Desarrollado para optimizar el control de animales y producción. | ![Python](https://img.shields.io/badge/-Python-black) ![MongoDB](https://img.shields.io/badge/-MongoDB-black) ![React](https://img.shields.io/badge/-React-black) |
+| **🎮 Adivina el Número** | Juego de lógica de consola con validación de datos y sistema de vidas. | ![Python](https://img.shields.io/badge/-Python-black) |
+
+---
+
+### 📫 Conéctate Conmigo
+
+<div align="center">
+  <a href="mailto:samuel.martinezcr7291@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="https://www.instagram.com/_samuelmartinez?igsh=MXFpOGp3OHR3b2Rrdw%3D%3D&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+
+<div align="center">
+  <small>Gracias por visitar mi perfil ⭐️</small>
+</div>
