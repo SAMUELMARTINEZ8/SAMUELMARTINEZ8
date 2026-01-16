@@ -22,8 +22,6 @@
 
 ### 🛠️ Habilidades Técnicas (Stack)
 
-En lugar de tablas simples, aquí tienes tus insignias visuales:
-
 **Lenguajes:**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -50,8 +48,6 @@ En lugar de tablas simples, aquí tienes tus insignias visuales:
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-
-Estas tarjetas se actualizan solas cada vez que haces un commit. ¡Hacen que tu perfil se vea muy vivo!
 
 <div align="center">
   <p>
