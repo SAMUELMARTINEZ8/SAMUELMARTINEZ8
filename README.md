@@ -49,10 +49,9 @@
 
 ### 📊 Mis Estadísticas de GitHub
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SAMUELMARTINEZ8&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMUELMARTINEZ8&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+| 🏆 Mis Estadísticas | 💻 Lenguajes Más Usados |
+| :---: | :---: |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=SAMUELMARTINEZ8&show_icons=true&theme=tokyonight&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMUELMARTINEZ8&layout=compact&theme=tokyonight&hide_border=true) |
 
 ---
 
