@@ -69,6 +69,21 @@ Además del código, me enfoco en las habilidades que hacen exitoso a un proyect
 
 ---
 
+### 📜 Licencias y Certificaciones
+
+Me mantengo actualizado con los estándares de la industria a través de formación continua:
+
+| Certificación | Emisor | Fecha de Emisión | ID de Credencial |
+| :--- | :--- | :--- | :--- |
+| **AWS Cloud Club Core Team** | Amazon Web Services (AWS) | Dic. 2025 | *[Ver Credencial](https://www.credly.com/badges/9a07fe46-b75b-4982-92d0-c21174f89614/linked_in_profile)* |
+| **Gestionar los Riesgos de Seguridad** | Google | Nov. 2025 | `EU7J6AE01S4Q` | *[Ver Credencial](https://www.coursera.org/account/accomplishments/verify/EU7J6AE01S4Q)* |
+| **Fundamentos de IA de Google** | Google | Oct. 2025 | `QXFOGVAGCDBV` | *[Ver Credencial](https://www.coursera.org/account/accomplishments/verify/QXFOGVAGCDBV)* |
+| **Fundamentos de la Ciberseguridad** | Google | Oct. 2025 | `Z40XWQUFYA06` | *[Ver Credencial](https://www.coursera.org/account/accomplishments/verify/Z40XWQUFYA06)* |
+| **Aspectos Básicos: Datos, datos, en todas partes** | Google | Abr. 2024 | `9KBEJBBDARK3` | *[Ver Credencial](https://www.coursera.org/account/accomplishments/verify/9KBEJBBDARK3)* |
+| **Inteligencia Artificial (IA)** | Coursera | -- | `JLgMhXy5RgO4DIV8uXYDvg` | *[Ver Credencial](https://www.coursera.org//account/accomplishments/badge/JLgMhXy5RgO4DIV8uXYDvg)* |
+
+---
+
 ### 📂 Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías |
