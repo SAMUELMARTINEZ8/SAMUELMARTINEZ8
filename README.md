@@ -13,7 +13,7 @@
 
 ¡Hola! Soy un estudiante del **8vo semestre** apasionado por la resolución de problemas y la gestión tecnológica. Mi objetivo es crear soluciones que impacten en el mundo real, combinando el desarrollo de software con una visión de **Gestión Empresarial**.
 
-- 🔭 Actualmente trabajando en: **Proyectos con Python y React.**
+- 🔭 Actualmente trabajando en: **Proyectos Full Stack con Python (Django/Flask) y React.**
 - 🌱 Aprendiendo: **Arquitectura de Software y Cloud Computing.**
 - 👯 Busco colaborar en: **Proyectos Open Source y Startups.**
 - ⚡ Dato curioso: Me encanta optimizar procesos (y el café ☕).
@@ -34,6 +34,8 @@
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
 **Bases de Datos & Herramientas:**
@@ -44,8 +46,6 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
-
----
 
 ---
 
@@ -60,27 +60,19 @@ Además del código, me enfoco en las habilidades que hacen exitoso a un proyect
   <img src="https://img.shields.io/badge/Habilidad-Autodidacta-yellow?style=for-the-badge&logo=bookstack&logoColor=white" />
 </p>
 
-### 🌐 Idiomas
-
-<p>
-  <img src="https://img.shields.io/badge/Español-Nativo-4EA94B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Inglés-Técnico_(Lectura)-blue?style=for-the-badge" />
-</p>
-
 ---
 
 ### 📜 Licencias y Certificaciones
 
 Me mantengo actualizado con los estándares de la industria a través de formación continua:
 
-| Certificación | Emisor | Fecha de Emisión | ID de Credencial |
+| Certificación | Emisor | Fecha | ID / Enlace |
 | :--- | :--- | :--- | :--- |
-| **AWS Cloud Club Core Team** | Amazon Web Services (AWS) | Dic. 2025 | *[Ver Credencial](https://www.credly.com/badges/9a07fe46-b75b-4982-92d0-c21174f89614/linked_in_profile)* |
+| **AWS Cloud Club Core Team** | Amazon Web Services (AWS) | Dic. 2025 | [Ver Credencial](https://www.credly.com/badges/9a07fe46-b75b-4982-92d0-c21174f89614/linked_in_profile) |
 | **Gestionar los Riesgos de Seguridad** | Google | Nov. 2025 | `EU7J6AE01S4Q` |
 | **Fundamentos de IA de Google** | Google | Oct. 2025 | `QXFOGVAGCDBV` |
 | **Fundamentos de la Ciberseguridad** | Google | Oct. 2025 | `Z40XWQUFYA06` |
-| **Aspectos Básicos: Datos, datos, en todas partes** | Google | Abr. 2024 | `9KBEJBBDARK3` |
-| **Inteligencia Artificial (IA)** | Coursera | -- | `JLgMhXy5RgO4DIV8uXYDvg` |
+| **Aspectos Básicos: Datos** | Google | Abr. 2024 | `9KBEJBBDARK3` |
 
 ---
 
@@ -88,8 +80,18 @@ Me mantengo actualizado con los estándares de la industria a través de formaci
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| **🐮 Bovino UJAT** | Sistema de gestión de inventario ganadero. Desarrollado para optimizar el control de animales y producción. | ![Python](https://img.shields.io/badge/-Python-black) ![MongoDB](https://img.shields.io/badge/-MongoDB-black) ![React](https://img.shields.io/badge/-React-black) |
-| **🎮 Adivina el Número** | Juego de lógica de consola con validación de datos y sistema de vidas. | ![Python](https://img.shields.io/badge/-Python-black) |
+| **[🚀 Gestor de Tareas FullStack](https://github.com/SAMUELMARTINEZ8/gestor-tareas-fullstack)** | Sistema completo de productividad. API REST robusta en Django conectada a una interfaz moderna en React. | ![Django](https://img.shields.io/badge/-Django-black) ![React](https://img.shields.io/badge/-React-black) ![SQLite](https://img.shields.io/badge/-SQLite-black) |
+| **[📦 TechInventory Pro](https://github.com/SAMUELMARTINEZ8/TechInventory-System)** | Sistema de gestión de inventarios empresariales. Arquitectura MVC, seguridad con hashing y Dashboard administrativo. | ![Flask](https://img.shields.io/badge/-Flask-black) ![MySQL](https://img.shields.io/badge/-MySQL-black) ![Python](https://img.shields.io/badge/-Python-black) |
+| **[🐮 Bovino UJAT](https://github.com/SAMUELMARTINEZ8/Bovino-UJAT)** | Sistema de gestión ganadera. Optimización de control de animales y producción. | ![Python](https://img.shields.io/badge/-Python-black) ![MongoDB](https://img.shields.io/badge/-MongoDB-black) |
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SAMUELMARTINEZ8&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMUELMARTINEZ8&layout=compact&theme=radical&hide_border=true" alt="Lenguajes" />
+</div>
 
 ---
 
@@ -98,6 +100,7 @@ Me mantengo actualizado con los estándares de la industria a través de formaci
 <div align="center">
   <a href="mailto:samuel.martinezcr7291@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
   <a href="https://www.instagram.com/_samuelmartinez?igsh=MXFpOGp3OHR3b2Rrdw%3D%3D&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
