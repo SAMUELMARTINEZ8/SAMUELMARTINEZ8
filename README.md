@@ -11,7 +11,7 @@
 
 ### 👨‍💻 Sobre Mí
 
-¡Hola! Soy un estudiante del **8vo semestre** apasionado por la resolución de problemas y la gestión tecnológica. Mi objetivo es crear soluciones que impacten en el mundo real, combinando el desarrollo de software con una visión de **Gestión Empresarial**.
+¡Hola! Soy un estudiante apasionado por la resolución de problemas y la gestión tecnológica. Mi objetivo es crear soluciones que impacten en el mundo real, combinando el desarrollo de software con una visión de **Gestión Empresarial**.
 
 - 🔭 Actualmente trabajando en: **Proyectos Full Stack con Python (Django/Flask) y React.**
 - 🌱 Aprendiendo: **Arquitectura de Software y Cloud Computing.**
