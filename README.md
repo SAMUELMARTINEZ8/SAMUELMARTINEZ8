@@ -95,7 +95,7 @@ Me mantengo actualizado con los estándares de la industria a través de formaci
 
 ---
 
-### 📫 Conéctate Conmigo
+### 📫 Conéctate Conmigo 
 
 <div align="center">
   <a href="mailto:samuel.martinezcr7291@gmail.com">
