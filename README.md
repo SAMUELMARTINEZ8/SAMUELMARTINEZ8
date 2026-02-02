@@ -88,18 +88,6 @@ Me mantengo actualizado con los estándares de la industria:
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-
-| **Actividad Global** | **Lenguajes Favoritos** |
-| :---: | :---: |
-| ![Samuel's Stats](https://github-readme-stats.vercel.app/api?username=SAMUELMARTINEZ8&show_icons=true&theme=radical&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMUELMARTINEZ8&layout=compact&theme=radical&hide_border=true) |
-
-</div>
-
-<br>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAMUELMARTINEZ8/SAMUELMARTINEZ8/output/github-snake-dark.svg">
