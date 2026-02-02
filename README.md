@@ -102,11 +102,11 @@ Me mantengo actualizado con los estándares de la industria:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAMUELMARTINEZ8/SAMUELMARTINEZ8/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAMUELMARTINEZ8/SAMUELMARTINEZ8/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/SAMUELMARTINEZ8/SAMUELMARTINEZ8/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAMUELMARTINEZ8/SAMUELMARTINEZ8/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAMUELMARTINEZ8/SAMUELMARTINEZ8/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SAMUELMARTINEZ8/SAMUELMARTINEZ8/output/github-snake.svg">
   </picture>
-</div>
+</div>>
 
 ---
 
