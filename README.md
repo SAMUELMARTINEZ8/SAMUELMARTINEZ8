@@ -50,7 +50,7 @@
 
 ### 🧠 Habilidades Blandas y Metodologías
 
-Además del código, me enfoco en las habilidades que hacen exitoso a un proyecto:
+Además del código, me enfoco en las habilidades que hacen exitoso a un proyecto: 
 
 <p>
   <img src="https://img.shields.io/badge/Metodología-Clean_Architecture-blueviolet?style=for-the-badge&logo=c&logoColor=white" />
