@@ -11,11 +11,12 @@
 
 ### 👨‍💻 Sobre Mí
 
-¡Hola! Soy **Samuel Martinez**, Ingeniero en Sistemas Computacionales y desarrollador de software.
+¡Hola! Soy un estudiante apasionado por la **Arquitectura de Software** y la resolución de problemas complejos. Mi evolución reciente se centra en construir sistemas escalables en la Nube y APIs robustas, combinando la ingeniería con una visión de **Gestión Empresarial**.
 
-En este perfil, comparto contenido sobre **programación, tecnología y desarrollo de software**, desde tutoriales y consejos hasta proyectos prácticos y novedades del sector. Mi objetivo es ayudarte a aprender, mejorar tus habilidades técnicas y mantenerte al día en el mundo tech.
-
-¡**Sígueme** y únete a esta comunidad de apasionados por la tecnología! 🚀
+- 🔭 Actualmente trabajando en: **APIs RESTful Modulares (FastAPI) y Despliegue Cloud (Render).**
+- 🌱 Aprendiendo: **Clean Architecture, CI/CD y Microservicios.**
+- 👯 Busco colaborar en: **Proyectos Open Source y Startups.**
+- ⚡ Dato curioso: Me encanta optimizar procesos tanto en código como en la vida real (y el café ☕).
 
 ---
 
