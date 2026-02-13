@@ -4,19 +4,18 @@
 
 <div align="center">
   <h3>🚀 Estudiante de Ingeniería en Sistemas Computacionales - UJAT</h3>
-  <p>Villahermosa, Tabasco, México 🌮</p>  
+  <p>Villahermosa, Tabasco, México 🌮</p>
 </div>
 
 ---
 
 ### 👨‍💻 Sobre Mí
 
-¡Hola! Soy un estudiante apasionado por la **Arquitectura de Software** y la resolución de problemas complejos. Mi evolución reciente se centra en construir sistemas escalables en la Nube y APIs robustas, combinando la ingeniería con una visión de **Gestión Empresarial**.
+¡Hola! Soy **Samuel Martinez**, Ingeniero en Sistemas Computacionales y desarrollador de software.
 
-- 🔭 Actualmente trabajando en: **APIs RESTful Modulares (FastAPI) y Despliegue Cloud (Render).**
-- 🌱 Aprendiendo: **Clean Architecture, CI/CD y Microservicios.**
-- 👯 Busco colaborar en: **Proyectos Open Source y Startups.**
-- ⚡ Dato curioso: Me encanta optimizar procesos tanto en código como en la vida real (y el café ☕).
+En este perfil, comparto contenido sobre **programación, tecnología y desarrollo de software**, desde tutoriales y consejos hasta proyectos prácticos y novedades del sector. Mi objetivo es ayudarte a aprender, mejorar tus habilidades técnicas y mantenerte al día en el mundo tech.
+
+¡**Sígueme** y únete a esta comunidad de apasionados por la tecnología! 🚀
 
 ---
 
@@ -50,7 +49,7 @@
 
 ### 🧠 Habilidades Blandas y Metodologías
 
-Además del código, me enfoco en las habilidades que hacen exitoso a un proyecto: 
+Además del código, me enfoco en las habilidades que hacen exitoso a un proyecto:
 
 <p>
   <img src="https://img.shields.io/badge/Metodología-Clean_Architecture-blueviolet?style=for-the-badge&logo=c&logoColor=white" />
@@ -70,8 +69,10 @@ Me mantengo actualizado con los estándares de la industria:
 | :--- | :--- | :--- | :--- |
 | **AWS Cloud Club Core Team** | Amazon Web Services (AWS) | Dic. 2025 | [Ver Credencial](https://www.credly.com/badges/9a07fe46-b75b-4982-92d0-c21174f89614/linked_in_profile) |
 | **Gestionar los Riesgos de Seguridad** | Google | Nov. 2025 | `EU7J6AE01S4Q` |
+| **Cybersecurity Awareness (CAPC™)** | CertiProf | Oct. 2025 | `oebaeeac` |
 | **Fundamentos de IA de Google** | Google | Oct. 2025 | `QXFOGVAGCDBV` |
 | **Fundamentos de la Ciberseguridad** | Google | Oct. 2025 | `Z40XWQUFYA06` |
+| **Scrum Foundation (SFPC™)** | CertiProf | Abr. 2024 | `95649855` |
 | **Aspectos Básicos: Datos** | Google | Abr. 2024 | `9KBEJBBDARK3` |
 
 ---
@@ -87,6 +88,18 @@ Me mantengo actualizado con los estándares de la industria:
 | **[🐮 Bovino UJAT](https://github.com/SAMUELMARTINEZ8/Bovino-UJAT)** | Sistema de gestión ganadera. Optimización de control de animales y producción. | ![Python](https://img.shields.io/badge/-Python-black) ![MongoDB](https://img.shields.io/badge/-MongoDB-black) |
 
 ---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+
+| **Actividad Global** | **Lenguajes Favoritos** |
+| :---: | :---: |
+| ![Samuel's Stats](https://github-readme-stats.vercel.app/api?username=SAMUELMARTINEZ8&show_icons=true&theme=radical&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMUELMARTINEZ8&layout=compact&theme=radical&hide_border=true) |
+
+</div>
+
+<br>
 
 <div align="center">
   <picture>
