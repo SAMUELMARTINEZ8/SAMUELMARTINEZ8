@@ -69,12 +69,12 @@ Me mantengo actualizado con los estándares de la industria:
 | Certificación | Emisor | Fecha | ID / Enlace |
 | :--- | :--- | :--- | :--- |
 | **AWS Cloud Club Core Team** | Amazon Web Services (AWS) | Dic. 2025 | [Ver Credencial](https://www.credly.com/badges/9a07fe46-b75b-4982-92d0-c21174f89614/linked_in_profile) |
-| **Gestionar los Riesgos de Seguridad** | Google | Nov. 2025 | `EU7J6AE01S4Q` |
+| **Gestionar los Riesgos de Seguridad** | Coursera | Nov. 2025 | `EU7J6AE01S4Q` |
 | **Cybersecurity Awareness (CAPC™)** | CertiProf | Oct. 2025 | `oebaeeac` |
-| **Fundamentos de IA de Google** | Google | Oct. 2025 | `QXFOGVAGCDBV` |
-| **Fundamentos de la Ciberseguridad** | Google | Oct. 2025 | `Z40XWQUFYA06` |
+| **Fundamentos de IA de Google** | Coursera | Oct. 2025 | `QXFOGVAGCDBV` |
+| **Fundamentos de la Ciberseguridad** | Coursera | Oct. 2025 | `Z40XWQUFYA06` |
 | **Scrum Foundation (SFPC™)** | CertiProf | Abr. 2024 | `95649855` |
-| **Aspectos Básicos: Datos** | Google | Abr. 2024 | `9KBEJBBDARK3` |
+| **Aspectos Básicos: Datos** | Coursera | Abr. 2024 | `9KBEJBBDARK3` |
 
 ---
 
