@@ -11,7 +11,7 @@
 
 ### 👨‍💻 Sobre Mí
 
-¡Hola! Soy un estudiante apasionado por la **Arquitectura de Software** y la resolución de problemas complejos. Mi evolución reciente se centra en construir sistemas escalables en la Nube y APIs robustas, combinando la ingeniería con una visión de **Gestión Empresarial**.
+¡Hola! Soy un estudiante apasionado por la **Tecnológia** y la resolución de problemas complejos. Mi evolución reciente se centra en construir sistemas escalables en la Nube y APIs robustas, combinando la ingeniería con una visión de **Gestión Empresarial**, espero a futuro colaborar con empresas grandes y de gran prestigio.
 
 - 🔭 Actualmente trabajando en: **APIs RESTful Modulares (FastAPI) y Despliegue Cloud (Render).**
 - 🌱 Aprendiendo: **Clean Architecture, CI/CD y Microservicios.**
@@ -114,5 +114,5 @@ Me mantengo actualizado con los estándares de la industria:
 </div>
 
 <div align="center">
-  <small>Gracias por visitar mi perfil ⭐️</small>
+  <small>Gracias por visitar mi perfil 🐵⭐️</small>
 </div>
